@@ -1,0 +1,18 @@
+body {
+    background:#dfdfdf; 
+}
+p {
+    color:rgb(34,34,34);
+}
+ul {
+    color:rgb(34,34,34);
+}
+.foto-principal{
+    border: 2px solid #FFFFFF;
+    border-radius:150px;
+    width:300px;
+    height:355px;
+    margin:30px;
+    padding:10px;
+    box-shadow:0px 0px 10px #959595 ;
+}
